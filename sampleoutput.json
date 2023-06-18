@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Dominic Raab resigns over bullying report",
+            "description": "The deputy prime minister quits government but hits out at the inquiry into bullying allegations against him, saying its findings are flawed.",
+            "url": "http://www.bbc.co.uk/news/live/uk-politics-64467038",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2023-04-21T09:07:25.847306Z",
+            "content": "While opposition parties accuse the PM of delaying his decision, others feel it's reasonable for Rishi Sunak to take his time when considering the future of not just his close ally but deputy PM and … [+1148 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: Russian warplane 'accidentally bombs own city'",
+            "description": "A huge blast which shook residents of Belgorod is being blamed by on an accidental air strike.",
+            "url": "http://www.bbc.co.uk/news/world-europe-65344370",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11835/production/_129433717_mediaitem129433677.jpg",
+            "publishedAt": "2023-04-21T04:22:16.2693142Z",
+            "content": "The defence ministry in Moscow says a Russian fighter jet accidentally bombed the city of Belgorod near the border with Ukraine. \r\nRegional Governor Vyacheslav Gladkov said the blast had left a huge … [+1011 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Sudan fighting: Outside pressure mounts to end violence",
+            "description": "There is new hope of a truce after days of fighting that left more than 300 people dead.",
+            "url": "http://www.bbc.co.uk/news/world-africa-65344372",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A6ED/production/_129433724_khartoumreuters.jpg",
+            "publishedAt": "2023-04-21T03:52:16.1913631Z",
+            "content": "Diplomatic pressure is being stepped up to end the fighting in Sudan which has left more than 300 people dead in the last week. \r\nThe regular army has been fighting a paramilitary force called the Ra… [+3233 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Acclaimed Boston chef Barbara Lynch denies staff abuse claims",
+            "description": "Former employees of top chef Barbara Lynch have accused her of physical and emotional abuse.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65328967",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3194/production/_129429621_gettyimages-1191107478.jpg",
+            "publishedAt": "2023-04-21T01:07:15.5817372Z",
+            "content": "One of Boston's most famous chefs is denying accusations from former employees that she was physically and emotionally abusive.\r\nIn separate investigations by the New York Times and the Boston Globe,… [+2833 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Cocaine smuggling submarine reveals Europe's drug crisis",
+            "description": "The carbon fibre vessel took three men and $150m of drugs from the Amazon rainforest to Spain.",
+            "url": "http://www.bbc.co.uk/news/world-europe-65337215",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/184CC/production/_129423599_capture4.png",
+            "publishedAt": "2023-04-21T00:22:18.6130222Z",
+            "content": "I'm about to climb into the first \"narco-sub\" known to have brought cocaine from South America to Europe. \r\nIt's 20 metres (65 ft) long, carbon fibre and - remarkably - homemade. \r\nAfter clambering o… [+7162 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Hunter Biden tax probe improperly handled - whistleblower",
+            "description": "A special agent alleges \"politics improperly infecting decisions\" in the probe into the president's son.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65344338",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/182ED/production/_119335099_gettyimages-520751670.jpg",
+            "publishedAt": "2023-04-21T00:22:16.5822767Z",
+            "content": "A US tax special agent has information about how a criminal investigation into the son of US President Joe Biden has been hampered by \"political considerations\", says his lawyer.\r\nThe attorney for th… [+2341 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Police investigating gold heist at Toronto airport",
+            "description": "It is unclear how much was stolen, but local media report 3,600lb (1,630kg) of gold is missing.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65328968",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F4E4/production/_129429626_gettyimages-1247945508.jpg",
+            "publishedAt": "2023-04-20T22:22:18.1598015Z",
+            "content": "Canadian police are investigating a gold heist at Toronto Pearson International Airport, according to local media. \r\nIt is unclear how much was stolen, but the Toronto Sun reported 3,600lb (1,630kg) … [+246 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Beyonce and the Pope among those to lose Twitter blue check in purge",
+            "description": "The social media giant has started to remove the once-coveted blue check verification from thousands of accounts.",
+            "url": "http://www.bbc.co.uk/news/technology-65344010",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9C61/production/_129433004_gettyimages-1245721878.jpg",
+            "publishedAt": "2023-04-20T21:37:12.65951Z",
+            "content": "What do Beyoncé and Pope Francis have in common? As of today, they are no longer verified on Twitter. \r\nThe social media giant began removing the once-coveted blue check verification from thousands o… [+1887 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Alec Baldwin: Criminal charges dropped over shooting, say lawyers",
+            "description": "The actor's lawyers say they are \"pleased\" with the move to drop the involuntary manslaughter case.",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-65343821",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/477E/production/_129420381_gettyimages-1239732527.jpg",
+            "publishedAt": "2023-04-20T20:07:21.4872874Z",
+            "content": "Criminal charges have been dropped against Alec Baldwin over a fatal on-set shooting, according to his lawyers. \r\nThe Emmy-award winning actor was charged with two counts of involuntary manslaughter … [+1106 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Six-year-old shot after basketball rolls into North Carolina man's yard",
+            "description": "Police said a man began shooting indiscriminately at his neighbours in North Carolina, injuring four.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65325867",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E07F/production/_129417475_microsoftteams-image-28.png",
+            "publishedAt": "2023-04-20T14:22:20.5815255Z",
+            "content": "Police in North Carolina are searching for a man accused of shooting a 6-year-old girl and her father after their basketball rolled into the suspect's yard.\r\nTwo other victims, a woman and a man, wer… [+2752 chars]"
+        }
+    ]
+}
